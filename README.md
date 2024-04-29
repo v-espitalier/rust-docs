@@ -1,4 +1,3 @@
-
 # Rust-docs
 
 Vous trouverez sur cette page différentes documentations sur Rust, avec différents niveaux d'approfondissement, afin de prendre en main Rust de façon progressive. Ces cours sont basés sur des exemples ou sur une doc PDF, et certains peuvent servir de référence, par exemple quand on cherche la syntaxe associée à une commande Rust..
