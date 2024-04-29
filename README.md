@@ -7,13 +7,13 @@ Si vous voulez simplement découvrir les principales fonctionnalités de Rust, v
 
 ## Documentations réunissant les principales commandes en une page A4 (ou 2..)
 
-* (![icon_UK](images/icon_UK.png)) (PDF) (2 p.) **Rust Programming Cheat Sheet** de **[opensource.com](opensource.com)**: [[PDF]](https://opensource.com/sites/default/files/gated-content/osdc_cheatsheet-rust-2021.11.11.pdf)
+* (![icon_UK](images/icon_UK.jpg)) (PDF) (2 p.) **Rust Programming Cheat Sheet** de **[opensource.com](opensource.com)**: [[PDF]](https://opensource.com/sites/default/files/gated-content/osdc_cheatsheet-rust-2021.11.11.pdf)
 
 Liste rapidement les principales commandes de Rust et leur syntaxe.
 
 ## Documentations de découverte rapide
 
-- (![icon_UK](images/icon_UK.png)) (HTML) (18 p. equiv PDF) **The Complete(sh) Rust Cheat Sheet** de **[Moe Katlib](https://dev.to/moekatib)**: [[HTML]](https://dev.to/moekatib/the-completesh-rust-cheat-sheet-4fnn)
+- (![icon_UK](images/icon_UK.jpg)) (HTML) (18 p. equiv PDF) **The Complete(sh) Rust Cheat Sheet** de **[Moe Katlib](https://dev.to/moekatib)**: [[HTML]](https://dev.to/moekatib/the-completesh-rust-cheat-sheet-4fnn)
 
 Tour d'horizon des principales fonctionnalités de Rust (structures de données en Rust, possession de variables, mutabilité, les traits, les macros, entre autres)
 
@@ -23,19 +23,19 @@ Tour d'horizon des principales fonctionnalités de Rust (structures de données 
 
 Cours très complet et intéressant. Plutôt utile quand vous avez définitivement choisi de sauter le pas et d'apprendre Rust.
 
-- (![icon_UK](images/icon_UK.png)) **Rust by example** de **[rust-lang.org](rust-lang.og)**: [[HTML]](https://doc.rust-lang.org/stable/rust-by-example/)
+- (![icon_UK](images/icon_UK.jpg)) **Rust by example** de **[rust-lang.org](rust-lang.og)**: [[HTML]](https://doc.rust-lang.org/stable/rust-by-example/)
 
 Apprenez le Rust via des exemples de code.
 
 - (![icon_FR](images/icon_FR.png)) (HTML/PDF) (122 p.) **Rust par l'exemple** de **Doc de Rust Code Team** et traduit par **A. Defranceschi**: [[HTML]](https://rust.developpez.com/tutoriels/rust-par-l-exemple/) [[PDF]](https://rust.developpez.com/tutoriels/rust-par-l-exemple/rust-par-l-exemple.pdf)
 
-- (![icon_UK](images/icon_UK.png)) (HTML/PDF) (71 p.) **Rust Language Cheat Sheet** de **[cheats.rs](https://cheats.rs)**: [[HTML]](https://cheats.rs) [[PDF]](https://cheats.rs/dl/rust_cheat_sheet_a4.pdf)
+- (![icon_UK](images/icon_UK.jpg)) (HTML/PDF) (71 p.) **Rust Language Cheat Sheet** de **[cheats.rs](https://cheats.rs)**: [[HTML]](https://cheats.rs) [[PDF]](https://cheats.rs/dl/rust_cheat_sheet_a4.pdf)
 
 Documentation de référence listant de façon exhaustive la syntaxe des commandes Rust, et fournissant bien d'autres infos utiles (à explorer !).
 
-- (![icon_UK](images/icon_UK.png)) (HTML/PDF) (383 p.) **Complehensive Rust** de **M. Geisler** **Android/Google**: [[HTML]](https://google.github.io/comprehensive-rust/) et [[PDF]](https://google.github.io/comprehensive-rust/comprehensive-rust.pdf)
+- (![icon_UK](images/icon_UK.jpg)) (HTML/PDF) (383 p.) **Complehensive Rust** de **M. Geisler** **Android/Google**: [[HTML]](https://google.github.io/comprehensive-rust/) et [[PDF]](https://google.github.io/comprehensive-rust/comprehensive-rust.pdf)
 
-- (![icon_UK](images/icon_UK.png)) (HTML/PDF) (670 p.) **The Rust Programming Language** de **Steve Klabnik et Carol Nichols**: [[HTML]](https://doc.rust-lang.org/book) [[PDF]](https://www.scs.stanford.edu/~zyedidia/docs/rust/rust_book.pdf)
+- (![icon_UK](images/icon_UK.jpg)) (HTML/PDF) (670 p.) **The Rust Programming Language** de **Steve Klabnik et Carol Nichols**: [[HTML]](https://doc.rust-lang.org/book) [[PDF]](https://www.scs.stanford.edu/~zyedidia/docs/rust/rust_book.pdf)
 
 - (![icon_FR](images/icon_FR.png)) (HTML) **Le langage de programmation Rust** de **Steve Klabnik et Carol Nichols** traduit par [https://github.com/Jimskapt](https://github.com/Jimskapt): [[HTML]](https://jimskapt.github.io/rust-book-fr)
 
