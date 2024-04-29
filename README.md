@@ -48,5 +48,8 @@ Documentation de référence listant de façon exhaustive la syntaxe des command
 
 ## Autres cours disponibles en Rust
 
-https://rust.developpez.com/cours/
+- (![icon_UK](images/icon_UK.jpg)) Ressources additionnelles sur **[awesome-rust](https://github.com/rust-unofficial/awesome-rust)**: [resources](https://github.com/rust-unofficial/awesome-rust?tab=readme-ov-file#resources)
+
+
+- https://rust.developpez.com/cours/
 
