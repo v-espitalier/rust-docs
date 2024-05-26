@@ -12,6 +12,10 @@ Liste rapidement les principales commandes de Rust et leur syntaxe.
 
 ## Documentations de découverte rapide
 
+- (![icon_FR](images/icon_FR.jpg)) (PDF) (5 p.) **Brève introduction à Rust** de **[Vincent Espitalier](https://github.com/v-espitalier)**: [[PDF]](https://github.com/v-espitalier/rust-docs/blob/main/fichiers/intro_v4.pdf)
+
+Introduction en quelques pages pour démarrer avec Rust inspirée des autres documentations (en construction).
+
 - (![icon_UK](images/icon_UK.jpg)) (HTML) (18 p. equiv PDF) **The Complete(sh) Rust Cheat Sheet** de **[Moe Katlib](https://dev.to/moekatib)**: [[HTML]](https://dev.to/moekatib/the-completesh-rust-cheat-sheet-4fnn)
 
 Tour d'horizon des principales fonctionnalités de Rust (structures de données en Rust, possession de variables, mutabilité, les traits, les macros, entre autres)
